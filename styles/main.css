@@ -18,18 +18,13 @@ html, body {
     font-size: 600%;
 }
 
-#widgets {
+#widget {
     margin: 0;
 }
 
-#twitterwidget {
-    padding: 1em 0;
-    float: left;
-}
-
-#facebookwidget {
-    padding: 1em 0;
-    float: right;
+#widget .wrapper {
+    width: 520px;
+    margin: auto;
 }
 
 #footer {
