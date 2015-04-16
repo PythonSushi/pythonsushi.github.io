@@ -30,6 +30,8 @@ html, body {
 #footer {
     margin-top: 3em;
     text-align: center;
+    color: gray;
+    font-size: 80%;
 }
 
 .floatcleaner {
