@@ -1,0 +1,46 @@
+html, body {
+    width: 100%;
+    margin: 0;
+    font-family: sans-serif;
+}
+
+#content {
+    width: 800px;
+    margin: auto;
+}
+
+#header {
+    text-align: center;
+}
+
+#header h1 {
+    margin-top: 15%;
+    font-size: 600%;
+}
+
+#widgets {
+    margin: 0;
+}
+
+#twitterwidget {
+    padding: 1em 0;
+    float: left;
+}
+
+#facebookwidget {
+    padding: 1em 0;
+    float: right;
+}
+
+#footer {
+    margin-top: 3em;
+    text-align: center;
+}
+
+.floatcleaner {
+    clear: both;
+}
+
+.section {
+    margin-top: 3em;
+}
